@@ -4,6 +4,8 @@ I'm a Graduate student doing my Masters in Information Systems at the College of
 
 I'm interested in Front-End Engineering and DevOps!
 
+<img align='right' src="./72178-man-working-under-lamp-light.gif" width="230">
+
 Prior to my studies at Northeastern, I worked as a Senior Software Engineer in the PAAS team for Ericsson, Hungary as an Embedded Software developer and as a Front-End developer for Uber at Wipro Ltd.
 
 I was mainly involved in the development and maintenance of Ericsson's commercial router series codenamed NightHawk 8801. For a short period of time, I was a part of Uber's internal dashboard team,
