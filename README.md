@@ -6,7 +6,7 @@ I'm interested in Front-End Engineering and DevOps!
 
 <img align='right' src="./72178-man-working-under-lamp-light.gif" width="230">
 
-Prior to my studies at Northeastern, I worked as a Senior Software Engineer in the PAAS team for Ericsson, Hungary as an Embedded Software developer and as a Front-End developer for Uber at Wipro Ltd.
+Prior to my studies at Northeastern, I worked as a Senior Software Engineer in the PaaS team for Ericsson, Hungary as an Embedded Software developer and as a Front-End developer for Uber at Wipro Ltd.
 
 I was mainly involved in the development and maintenance of Ericsson's commercial router series codenamed NightHawk 8801. For a short period of time, I was a part of Uber's internal dashboard team,
 where we built various dashboards for their teams.
@@ -21,4 +21,3 @@ Occasionally write about stuff in my [Blog].
 [blog]: https://sydrawat.netlify.app/blog/
 [here]: https://sydrawat.netlify.app/
 
-You can reach out to me here: [rawat.sid@northeastern.edu](mailto:rawat.sid@northeastern.edu)
