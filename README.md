@@ -1,4 +1,4 @@
-Hey, I'm Sid! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px">
+Hey, I'm Sid! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px">
 
 I'm a Graduate student doing my Masters in Information Systems at the College of Engineering in Northeastern University, Boston.
 
