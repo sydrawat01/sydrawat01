@@ -2,7 +2,7 @@ Hey, I'm Sid! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 I'm a Graduate student doing my Masters in Information Systems at the College of Engineering in Northeastern University, Boston.
 
-I'm interested in Front-End Engineering and DevOps!
+I'm interested in Fullstack Engineering, Site Reliability Engineering and DevOps!
 
 <img align='right' src="./72178-man-working-under-lamp-light.gif" width="230">
 
