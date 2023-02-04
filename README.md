@@ -21,4 +21,4 @@ Occasionally write about stuff in my [Blog].
 [blog]: https://sydrawat.netlify.app/blog/
 [here]: https://sydrawat.netlify.app/
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/sydrawat01/sydrawat01/output/github-contribution-grid-snake.svg)
