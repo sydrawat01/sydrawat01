@@ -18,7 +18,7 @@ Find out more about me [here]!
 Occasionally write about stuff in my [Blog].
 
 <!-- Links -->
-[blog]: https://sydrawat.netlify.app/blog/
-[here]: https://sydrawat.netlify.app/
+[blog]: https://sydrawat.me/blog/
+[here]: https://sydrawat.me/
 
 ![](https://raw.githubusercontent.com/sydrawat01/sydrawat01/output/github-contribution-grid-snake.svg)
