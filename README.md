@@ -2,9 +2,7 @@ Hey, I'm Sid! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 I'm a Graduate student doing my Masters in Information Systems at the College of Engineering in Northeastern University, Boston.
 
-I'm interested in Fullstack Engineering, Site Reliability Engineering and DevOps!
-
-<img align='right' src="./72178-man-working-under-lamp-light.gif" width="230">
+I'm interested in Fullstack Engineering, Site Reliability Engineering and DevOps! I'm currently working as an intern at [@Boehringer-Ingelheim USA](https://github.com/Boehringer-Ingelheim), developing GPT powered chatbots for medical websites using Azure OpenAI, Power Virtual Agents, and other cool stuff!
 
 Prior to my studies at Northeastern, I worked as a Senior Software Engineer in the PaaS team for Ericsson, Hungary as an Embedded Software developer and as a Front-End developer for Uber at Wipro Ltd.
 
@@ -18,6 +16,7 @@ Find out more about me [here]!
 Occasionally write about stuff in my [Blog].
 
 <!-- Links -->
+
 [blog]: https://sydrawat.me/blog/
 [here]: https://sydrawat.me/
 
