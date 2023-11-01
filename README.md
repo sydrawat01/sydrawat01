@@ -12,8 +12,8 @@ Occasionally write about stuff in my [Blog].
 
 <!-- Links -->
 
-[blog]: https://sydrawat.me/blog/
-[here]: https://sydrawat.me/
+[blog]: https://sydrawat.live/blog/
+[here]: https://sydrawat.live/
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sydrawat01/sydrawat01/output/github-contribution-grid-snake-dark.svg">
