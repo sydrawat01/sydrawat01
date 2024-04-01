@@ -17,7 +17,7 @@ Hey, I'm Sid! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 [blog]: https://sydrawat.live/blog/
 [here]: https://sydrawat.live/
 
-<a href="https://app.daily.dev/sydrawat"><img src="https://api.daily.dev/devcards/v2/vhrvyTTHdREUPbmlUcXn3.png?type=default&r=bf0" width="356" alt="Siddharth Rawat's Dev Card"/></a>
+<a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="Sid's Dev Card"/></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sydrawat01/sydrawat01/output/github-contribution-grid-snake-dark.svg">
