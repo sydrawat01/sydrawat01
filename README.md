@@ -6,7 +6,7 @@ Hey, I'm Sid! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 :office: Prior to my studies at Northeastern, I worked as a Senior Software Engineer in the PaaS team for Ericsson, Hungary as an Embedded Software developer and as a Front-End developer for Uber at Wipro Ltd. I was mainly involved in the development and maintenance of Ericsson's commercial router.
 
-:technologist: Currently, I working on a project where I work with a highly available `kubernetes cluster` which hosts a `containerized REST API` that is being deployed on a `regional`, `multi-nodal` `private` `GKE cluster` using `Helm Charts`. Logging and monitoring of metrics is done using `Prometheus` and `Grafana`. A custom health check on this REST API is done by a highly available `Kafka cluster` (deployed using the `Bitnami Kafka Helm Chart` as a dependency) on the same `GKE cluster` using the traiditonal `producer-consumer` model.
+:technologist: Currently, I working on a project where I work with a highly available `kubernetes cluster` which hosts a `containerized REST API` that is being deployed on a `regional`, `multi-nodal` `private` `GKE cluster` using `Helm Charts`. Logging and monitoring of metrics is done using `Prometheus` and `Grafana`. A custom health check on this REST API is done by a highly available `Kafka cluster` (deployed using the `Bitnami Kafka Helm Chart` as a dependency) on the same `GKE cluster` using the traditonal `producer-consumer` model.
 
 :globe_with_meridians: Find out more about me [here]!
 
